@@ -8,12 +8,15 @@ h1 {
 h3{
     color: #FFFF00;
 }
-ul{
-    color: #6A5ACD;
+li{
+    color: #ffffff;
 }
+
 h2{
     background-color: #FFFF00; 
+    border: 2px solid;
 }
+
 #astronomy-class{
     color: #e74c3c;
 }
